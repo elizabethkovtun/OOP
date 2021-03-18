@@ -1,0 +1,12 @@
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/bin/Debug/Lab_3_1.exe
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/bin/Debug/Lab_3_1.pdb
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.csprojAssemblyReference.cache
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.exe
+/Users/mac/Documents/Study/ООП/Лабораторні роботи/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.pdb
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/bin/Debug/Lab_3_1.exe
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/bin/Debug/Lab_3_1.pdb
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.csprojAssemblyReference.cache
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.csproj.CoreCompileInputs.cache
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.exe
+/Users/mac/Downloads/Lab_3_1/Lab_3_1/obj/Debug/Lab_3_1.pdb
