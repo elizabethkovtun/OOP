@@ -1,0 +1,2 @@
+/Users/mac/Projects/OOP_Zalik_1/OOP_Zalik_1/obj/Debug/OOP_Zalik_1.csprojAssemblyReference.cache
+/Users/mac/Projects/OOP_Zalik_1/OOP_Zalik_1/obj/Debug/OOP_Zalik_1.csproj.CoreCompileInputs.cache

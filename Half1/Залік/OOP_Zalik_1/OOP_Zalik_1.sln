@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.809.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_Zalik_1", "OOP_Zalik_1\OOP_Zalik_1.csproj", "{834BFD1D-C984-4E36-ADBB-116DD2FADE73}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{834BFD1D-C984-4E36-ADBB-116DD2FADE73}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{834BFD1D-C984-4E36-ADBB-116DD2FADE73}.Debug|anycpu.Build.0 = Debug|anycpu
+		{834BFD1D-C984-4E36-ADBB-116DD2FADE73}.Release|anycpu.ActiveCfg = Release|anycpu
+		{834BFD1D-C984-4E36-ADBB-116DD2FADE73}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83383285-FC22-49B8-BB65-64EA74D0FB5F}
+	EndGlobalSection
+EndGlobal
