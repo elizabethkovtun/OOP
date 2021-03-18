@@ -1,0 +1,6 @@
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/bin/Debug/Lab_2_1_.exe
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/bin/Debug/Lab_2_1_.pdb
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/obj/Debug/Lab_2_1_.csprojAssemblyReference.cache
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/obj/Debug/Lab_2_1_.csproj.CoreCompileInputs.cache
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/obj/Debug/Lab_2_1_.exe
+/Users/mac/Projects/Lab_2_1_/Lab_2_1_/obj/Debug/Lab_2_1_.pdb
