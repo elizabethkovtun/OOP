@@ -1,0 +1,15 @@
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.exe
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.deps.json
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.runtimeconfig.json
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.runtimeconfig.dev.json
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.dll
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\bin\Debug\netcoreapp3.1\Lab_3.1_ex_8.pdb
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.csprojAssemblyReference.cache
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3._1_ex_8.Form1.resources
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.csproj.GenerateResource.cache
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.AssemblyInfoInputs.cache
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.AssemblyInfo.cs
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.csproj.CoreCompileInputs.cache
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.dll
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.pdb
+C:\Users\mac\source\repos\Lab_3.1_ex_8\Lab_3.1_ex_8\obj\Debug\netcoreapp3.1\Lab_3.1_ex_8.genruntimeconfig.cache
