@@ -1,0 +1,12 @@
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.ExamInformation.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.Form1.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.StudentsInformation.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.pdb
