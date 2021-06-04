@@ -1,0 +1,57 @@
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.ExamInformation.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.Form1.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.StudentsInformation.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\serialization_lab-master\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.exe
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\bin\Debug\Lab4.exe
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.CreateStudent.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.ExamInformation.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.StudentsInformation.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\╨Ы╤А4\Lab4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\bin\Debug\Lab4.exe
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\bin\Debug\Lab4.pdb
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.CreateStudent.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.ExamInformation.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.Form1.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.StudentsInformation.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab_4.csproj.CopyComplete
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.exe
+C:\Users\Xiaomi\Downloads\Telegram Desktop\Лр4\something\Lab4\obj\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Ла4\something\Lab4\bin\Debug\Lab4.exe.config
+\\Mac\Home\Downloads\Ла4\something\Lab4\bin\Debug\Lab4.exe
+\\Mac\Home\Downloads\Ла4\something\Lab4\bin\Debug\Lab4.pdb
+\\Mac\Home\Downloads\Ла4\something\Lab4\bin\Debug\Newtonsoft.Json.dll
+\\Mac\Home\Downloads\Ла4\something\Lab4\bin\Debug\Newtonsoft.Json.xml
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab_4.csprojAssemblyReference.cache
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.CreateStudent.resources
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.ExamInformation.resources
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.Form1.resources
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.StudentsInformation.resources
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab_4.csproj.GenerateResource.cache
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab_4.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab_4.csproj.CopyComplete
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.exe
+\\Mac\Home\Downloads\Ла4\something\Lab4\obj\Debug\Lab4.pdb
